@@ -1,0 +1,1 @@
+Make board and transparent pieces absolutely positioned with pixels.
